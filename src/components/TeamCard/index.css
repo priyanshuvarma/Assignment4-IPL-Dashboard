@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.card-item {
+  background-color: #1e293b;
+  opacity: 0.5;
+  border: 2px solid #ffffff;
+  border-radius: 8px;
+  list-style-type: none;
+  margin: 15px;
+  width: 40%;
+}
+.team-item-container {
+  display: flex;
+  margin: 15px;
+}
+.team-name {
+  color: #ffffff;
+  font-size: 24px;
+  font-weight: 700;
+  font-family: Bree Serif;
+}
+.team-item-link {
+  text-decoration: none;
+}
+.team-item-image {
+  width: 75px;
+  margin: 15px;
+}
